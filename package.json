@@ -21,5 +21,6 @@
   "bugs": {
     "url": "https://github.com/thomcc/pcg-random/issues"
   },
-  "homepage": "https://github.com/thomcc/pcg-random#readme"
+  "homepage": "https://github.com/thomcc/pcg-random#readme",
+  "types": "pcg-random.d.ts"
 }
