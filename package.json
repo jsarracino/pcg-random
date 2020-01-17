@@ -22,5 +22,6 @@
     "url": "https://github.com/thomcc/pcg-random/issues"
   },
   "homepage": "https://github.com/thomcc/pcg-random#readme",
-  "types": "pcg-random.d.ts"
+  "types": "pcg-random.d.ts",
+  "type": "module"
 }
